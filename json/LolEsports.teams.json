@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "65792bc6845c959e213dd033"
+  },
+  "name": "T1",
+  "league": "LCK - Korea",
+  "logo": "https://am-a.akamaihd.net/image?resize=200:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1698742459630_T1_Color_v2.png"
+},
+{
+  "_id": {
+    "$oid": "65792d14e7ad1830c02cdcd8"
+  },
+  "name": "MAD Lions",
+  "league": "LEC - Europe",
+  "logo": "https://am-a.akamaihd.net/image?resize=200:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1631819614211_mad-2021-worlds.png",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65793f48c61477ddf09912e8"
+  },
+  "name": "Gen.G",
+  "league": "LCK - Korea",
+  "logo": "https://am-a.akamaihd.net/image?resize=200:&f=http%3A%2F%2Fstatic.lolesports.com%2Fteams%2F1655210113163_GenG_logo_200407-05.png",
+  "__v": 0
+}]

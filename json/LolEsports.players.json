@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "65792e20845c959e213dd03b"
+  },
+  "name": "Lee Sang-hyeok",
+  "nick_name": "Faker",
+  "team": "T1",
+  "photo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/ef/T1_Faker_2023_WC.png",
+  "age": "29",
+  "rol_img": "https://static.wikia.nocookie.net/leagueoflegends/images/9/98/Middle_icon.png"
+},
+{
+  "_id": {
+    "$oid": "65792f9cb4748a0eba798556"
+  },
+  "name": "Javier Prades Batalla",
+  "nick_name": "Elyoya",
+  "team": "MAD Lions",
+  "photo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/14/MAD_Elyoya_2023_Split_3.png",
+  "age": "23",
+  "rol_img": "https://static.wikia.nocookie.net/leagueoflegends/images/1/1b/Jungle_icon.png",
+  "__v": 0
+}]
