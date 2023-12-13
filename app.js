@@ -2,20 +2,19 @@ import express from 'express'
 import cors from 'cors'
 import morgan from 'morgan'
 import './dbConfig.js'
-import teamsRouter from './routes/LolEsports.routes.js'
+import Router from './routes/LolEsports.routes.js'
 
 
-
-const App=express();
+const App = express();
 //middlewares
 App.use(cors())
 App.use(morgan('dev'))
 App.use(express.json())
-App.use('/api', teamsRouter)
+App.use('/api', Router)
 
-const PORT=6900
+const PORT = 6900
 
-App.listen(PORT, ()=>{
+App.listen(PORT, () => {
     console.log(`API on port ${PORT}`)
 })
 
